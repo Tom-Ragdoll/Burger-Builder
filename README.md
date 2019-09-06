@@ -3,7 +3,7 @@
 ## click to lanuch
 
 <div align="left">
-  <a href="https://react-burger-fda59.firebaseapp.com/"><img src="image/Launch.jpg" /></a>
+  <a href="https://react-burger-fda59.firebaseapp.com/"><img width="200" height="40" src="image/Launch.jpg" /></a>
 </div>
 
 ## Function
